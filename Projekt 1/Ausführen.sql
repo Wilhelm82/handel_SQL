@@ -1,5 +1,4 @@
 /*###########################Tabelle löschen*/
-/*das ist ein Test*/
 
 --hier mit Transaction eine Tabelle löschen:
 begin transaction Test

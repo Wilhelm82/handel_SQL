@@ -20,3 +20,4 @@ SELECT *
 FROM [TestDBWaehrungen].[dbo].[AUDCAD_Hours_1]
 Where [Time] = '19980709 00:00:00' 
 
+--Hallo mein name ist Wilhelm Paul
